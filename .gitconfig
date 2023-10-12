@@ -1,0 +1,9 @@
+[user]
+	name = hyf
+	email = 3103693466@qq.com
+[core]
+	editor = vim
+[color]
+	ui = true
+[alias]
+    	graph = log --all --graph --decorate --oneline
